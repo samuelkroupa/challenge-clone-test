@@ -3,5 +3,3 @@ First push for the challenge: push your first code section.
 More changes
 
 And another line
-
-added another final line
